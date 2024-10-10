@@ -1,2 +1,0 @@
-# ventura
-no 
